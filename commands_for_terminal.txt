@@ -1,0 +1,5 @@
+wget  https://www.ebi.ac.uk/gxa/experiments-content/E-MTAB-2908/resources/ExperimentDesignFile.RnaSeq/experiment-design
+
+wget https://www.ebi.ac.uk/gxa/experiments-content/E-MTAB-2908/resources/DifferentialSecondaryDataFiles.RnaSeq/raw-counts
+
+python3 finalproject.py
